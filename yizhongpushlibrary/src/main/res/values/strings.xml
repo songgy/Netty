@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YizhongPushLibrary</string>
+    <string name="app_text">{"order_continue":"0","order_start_point":"湘土情酒楼(水上公园店)","order_help":"myself","order_realdate":"","order_id":"307305","order_createdate":"2017-04-05 22:33:59","order_start_lon":"117.16004848480226","order_end_point":"天津市城市建设档案馆","order_start_lat":"39.09741694535516","order_state":"0","order_type":"0"}</string>
+</resources>
